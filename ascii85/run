@@ -1,0 +1,4 @@
+#!/bin/sh
+
+node ./bf1.js "$@"
+
